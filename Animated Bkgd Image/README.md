@@ -8,9 +8,13 @@ Animated Background Image
 
 <hr>
 
-# Preview
+<h1 align="center">
+Preview
+</h1>
 
-![Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="animated" />
+</p>
 
 ## Resources
 
