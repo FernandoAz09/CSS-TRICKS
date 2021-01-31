@@ -4,7 +4,7 @@ Digital Clock
 
 <p align="center">CSS TRICKS for study purposes.</p>
 <p align="center">Made only with JavaScript, HTML5 and CSS3!!</p>
-<p align="center">Click <a href="https://www.youtube.com/watch?v=CWOnjWTfPW4&t=0s">here</a> and <a href="https://www.youtube.com/watch?v=fSYG0xZIc8A&t=0s">here</a>for the youtube video, watch how it is made and do it yourself.</p>
+<p align="center">Click <a href="https://www.youtube.com/watch?v=CWOnjWTfPW4&t=0s">here</a> and <a href="https://www.youtube.com/watch?v=fSYG0xZIc8A&t=0s">here</a> for the youtube video, watch how it is made and do it yourself.</p>
 
 <hr>
 
